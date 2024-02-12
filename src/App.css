@@ -1,0 +1,169 @@
+
+
+/*
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* .hero{
+  width: 100%;
+  height: 100%;
+}
+*/
+/* .inn-outer {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: green;
+}  */
+
+/* .landing-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden; 
+}
+
+.hero {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end; 
+  background-color: black;
+  overflow: hidden; 
+
+  height:100vh ;
+  width:100vw;
+}
+
+.mission {
+  flex: 1;
+  background-color: black;
+  color: white;
+  display: flex;
+  align-items: center; 
+  transform: scale(0.1);
+}
+
+.mission-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  transform: scale(0.1);
+}
+
+
+.mission-title {
+  font-size: 5rem;
+}
+
+.mission-paragraph {
+  font-size: 2rem;
+} */
+
+/* @media only screen and (min-width: 1100px) {
+  .scroll-container {
+    height: 100vh;
+    overflow-y: scroll;
+    scroll-snap-type: y mandatory;
+  }
+
+  .part {
+    height: 100vh;
+    scroll-snap-align: start;
+    overflow: hidden;
+    scroll-snap-stop: always;
+    position: relative;
+  }
+
+  .part .content1 {
+    position: absolute;
+    top: 10%;
+    transform: translateY(-50%);
+  }
+
+  .part .content2 {
+    margin-top: 4%;
+  }
+
+  .part .content3 {
+    margin-top: 5%;
+  }
+
+  .part .image {
+    position: absolute;
+    bottom: 18%;
+    left: 50%;
+    transform: translate(0, 0);
+  }
+
+  .part .image2 {
+    margin-top: 30px;
+  }
+
+  .part .image3 {
+    margin-top: 30px;
+  }
+
+  .part:nth-child(odd) {
+    scroll-snap-coordinate: 0% 100%;
+  }
+
+  .part:nth-child(even) {
+    scroll-snap-coordinate: 100% 0%;
+  }
+
+  .part.overflow-hidden {
+    overflow-y: hidden;
+  }
+
+  ::-webkit-scrollbar {
+    width: 3px;
+    height:3px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: none;
+  }
+  ::-webkit-scrollbar-button {
+    background-color: none;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgb(180, 28, 170);
+    border-radius: 50px;
+  }
+
+} */

@@ -1,0 +1,33 @@
+[
+{
+    "_id":"1","Name":"Ved Mistry","role":"senior",
+    "AreaOfInterest":"Data Science, CV, DL",
+    "BriefIntro":"The field of data science to be both challenging and rewarding, as it requires the ability to think critically, creatively, and scientifically. By working in data science, I get to help organizations leverage the power of data to make better decisions, improve operations, and ultimately drive positive change in the world. I am also a highly motivated computer vision professional with a passion for using technology to solve real-world problems. I have gained a wealth of experience in the field through my work on various projects. My expertise lies in using computer vision techniques, such as image classification, object detection, and segmentation, to analyze and interpret visual data. I am constantly exploring new ways to use computer vision to drive innovation and make a positive impact on the world. I am excited to continue my growth in this rapidly evolving field and bring my skills to new and challenging projects.",
+    "linkedIn":"https://www.linkedin.com/in/ved-mistry-18b481204/",
+    "github":"",
+    "img":"https://drive.google.com/file/d/1iTpX8jp7EAW95LGmxKmb9nTmiGYP08Wk/view?usp=share_link"
+
+},
+{
+    "_id":"2","Name":"Aryan Ringshia","role":"senior",
+    "AreaOfInterest":"Data Science,Data Analytics",
+    "BriefIntro":"I find this area of work to be extremely fascinating because it has the potential to impact virtually every industry and aspect of society. The sheer volume of data that is generated every day is truly staggering, and data science provides the tools and techniques needed to make sense of this information and use it to drive better decision-making. To further pursue this interest, I interned at two companies and gained valuable experience in a variety of projects, including Natural Language Processing (NLP), fraud detection, and time series analysis.",
+    "linkedIn":"www.linkedin.com/in/aryan-ringshia",
+    "github":"https://github.com/AryanRingshia"
+},
+{
+    "_id":"3","Name":"Jainil Shah","role":"junior",
+    "AreaOfInterest":"Data Science, DL",
+    "BriefIntro":"I find this area of work to be extremely fascinating because it has the potential to impact virtually every industry and aspect of society. The sheer volume of data that is generated every day is truly staggering, and data science provides the tools and techniques needed to make sense of this information and use it to drive better decision-making. To further pursue this interest, I interned at two companies and gained valuable experience in a variety of projects, including Natural Language Processing (NLP), fraud detection, and time series analysis.",
+    "linkedIn":"https://www.linkedin.com/in/jainil-shah-9a0143222/",
+    "github":"https://github.com/Jainilshah07"
+},
+{
+    "_id":"4","Name":"Jash Shah","role":"junior",
+    "AreaOfInterest":"Computer Vision and Deep Learning",
+    "BriefIntro":"Computer vision interests me due to its vast applications in real life scenarios. Apart from that, me being a sports fanatic, computer vision is an application of AI/ML that has a huge scope in sports and can be used to analyse and formulate tactics, thereby drawing my interest towards CV. Research projects in the field of computer version. Smart Weapon detection system: Detecting the presence of weapons in CCTV footage using the YOLO algorithm. Fight action recognition system: Identify and classify violent fight actions in videos using video classification and action recognition models",
+    "linkedIn":"www.linkedin.com/in/jash-devang-shah",
+    "github":"https://github.com/gemini30"
+}
+
+]

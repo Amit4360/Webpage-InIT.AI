@@ -1,0 +1,99 @@
+@media only screen and (min-width: 1100px) {
+    .scroll-container-about {
+      height: 100vh;
+      overflow-y: scroll;
+      scroll-snap-type: y mandatory;
+    }
+  
+    .part {
+      height: 100vh;
+      scroll-snap-align: start;
+      overflow: hidden;
+      scroll-snap-stop: always;
+      position: relative;
+     
+    }
+  
+    .part .content1 {
+      position: absolute;
+      top: 15%;
+      transform: translateY(-50%);
+    }
+  
+    .part .content2 {
+      margin-top: 4%;
+    }
+  
+    .part .content3 {
+      margin-top: 8%;
+    }
+
+    .part .content4{
+      margin-top: 5%;
+    }
+  
+    .part .image {
+      position: absolute;
+      bottom: 14%;
+      left: 50%;
+      transform: translate(0, 0);
+    }
+  
+    .part .image2 {
+      margin-top: 30px;
+    }
+  
+    .part .image3 {
+      margin-top: 80px;
+    }
+  
+.part .image4{
+  margin-top: 6%;
+}
+
+    .part:nth-child(odd) {
+      scroll-snap-coordinate: 0% 100%;
+    }
+  
+    .part:nth-child(even) {
+      scroll-snap-coordinate: 100% 0%;
+    }
+  
+    .part.overflow-hidden {
+      overflow-y: hidden;
+    }
+  
+    ::-webkit-scrollbar {
+      width: 3px;
+      height:3px;
+    }
+    
+    ::-webkit-scrollbar-track {
+      background-color: none;
+    }
+    ::-webkit-scrollbar-button {
+      background-color: none;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgb(180, 28, 170);
+      border-radius: 50px;
+    }
+  
+  }
+  
+
+  @media only screen and (max-width: 768px){
+    .part{
+      height:85vh;
+
+    }
+  }
+
+
+.scroll-container-about{
+  background: radial-gradient(
+    circle,
+    rgba(49, 32, 84, 1) 16%,
+    rgba(9, 3, 14, 1) 100%
+  );
+}
